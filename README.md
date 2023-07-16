@@ -1,6 +1,6 @@
 # Fashion-store
 
-Hello all, I am J Ravi Kishore Reddy and we had done this project in the group and our contributors are P Chakradhar Reddy, K Niharika, Vandana. This is our project submission for 
+Hello all, I am J Ravi Kishore Reddy . This is our project submission for 
 Future ready talent Internship.
 
 #### Industry: 
