@@ -1,6 +1,6 @@
 # Fashion-store
 
-Hello all, I am J Ravi Kishore Reddy . This is our project submission for 
+Hello all, I am T Sonika Reddy . This is our project submission for 
 Future ready talent Internship.
 
 #### Industry: 
